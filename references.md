@@ -1,6 +1,8 @@
 # References
 #### Haudricourt 1975
 Haudricourt, A-G.  1975. Le système de tons du Karen commun. Bulletin de la Société de Linguistique de Paris 70/1: 339–343.
+#### Jones 1965
+Jones, R. B. 1961. Karen Linguistic Studies. Univ. of California Publications in Linguistics 25. Berkeley: Univ. of Calif. Press.
 #### Solnit 1985
 Solnit, David B. 1985. Introduction to the Biao Min Yao Language.  Cahiers de Linguistique Asie Orientale 14.2 (December 1985), 175-91.
 #### Solnit 2013

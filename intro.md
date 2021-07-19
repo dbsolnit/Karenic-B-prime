@@ -22,3 +22,5 @@ I suggest that "Tone B-prime" items:
 This accounts for the way that the B-prime items merged:
 - In the central languages, which preserved no trace of final obstruents, B-prime merged with the reflexes of checked syllables.
 - In the peripheral languages, which preserved final obstruents (merged as glottal stop), B-prime merged with non-checked syllables.
+
+[Next section](body.md)

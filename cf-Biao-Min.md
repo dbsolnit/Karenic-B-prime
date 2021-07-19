@@ -1,6 +1,6 @@
 # The Biao Min Case
 
-Biao Min (Mienic: Solnit 1985), provides a parallel case of checked syllables merging with nonchecked when conditioned by voiced initials, but not unvoiced.
+Biao Min Mienic: [Solnit 1985](https://github.com/dbsolnit/Karenic-B-prime/blob/main/references.md#solnit-1985), provides a parallel case of checked syllables merging with nonchecked when conditioned by voiced initials, but not unvoiced.
 
 \*-p t > -n
 
